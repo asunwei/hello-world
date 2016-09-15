@@ -1,5 +1,8 @@
 # hello-world
 just another repository
-public static void main string(agr u){
+public class HelloWorld{
+  public static void main（string arg[]){
   System.out.println("hello world");
+  }
 }
+
